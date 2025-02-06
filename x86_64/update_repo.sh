@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm core_repo*
+#rm core_repo*
 
 echo "repo-add"
 
