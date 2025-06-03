@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#rm core_repo*
+rm core_repo.*
 
 echo "repo-add"
 
@@ -10,4 +10,3 @@ sleep 5
 echo "#####"
 echo "Repo Update!!"
 echo "#####"
-
