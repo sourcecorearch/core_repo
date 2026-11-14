@@ -1,3 +1,2 @@
-nvidia-580xx-*.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-lib32-nvidia-580xx-*.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
+nvidia-580xx-utils-*.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
 brave-origin-bin-*.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
